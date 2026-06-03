@@ -1,0 +1,57 @@
+================================================================================
+🎬 YOUR PERSONALIZED NETFLIX RECOMMENDATIONS 🎬
+================================================================================
+
+📌 Mood: HAPPY
+📌 Duration: HAPPY
+📌 Rating: SHORT
+
+================================================================================
+
+🎥 RECOMMENDED MOVIES:
+--------------------------------------------------------------------------------
+
+✨ Bulletproof 2 (2020)
+   ⭐ Rating: TV-MA | ⏱️  97 min
+   🎭 Genres: Action & Adventure, Comedies
+   📝 A special agent abruptly reunites with a criminal – once a former friend – when he attempts to use his identity to infil...
+
+✨ Live Twice, Love Once (2020)
+   ⭐ Rating: TV-MA | ⏱️  102 min
+   🎭 Genres: Comedies, Dramas, International Movies
+   📝 When Emilio (Oscar Martínez) is diagnosed with Alzheimer's disease, he and his family embark on a quest to reunite him w...
+
+✨ All the Freckles in the World (2020)
+   ⭐ Rating: TV-14 | ⏱️  90 min
+   🎭 Genres: Comedies, International Movies, Romantic Movies
+   📝 Thirteen-year-old José Miguel is immune to 1994 World Cup fever until he realizes soccer is the only way to win the hear...
+
+✨ Leslie Jones: Time Machine (2020)
+   ⭐ Rating: TV-MA | ⏱️  66 min
+   🎭 Genres: Stand-Up Comedy
+   📝 From trying to seduce Prince to battling sleep apnea, Leslie Jones traces her evolution as an adult in a joyfully raw an...
+
+
+📺 RECOMMENDED TV SHOWS:
+--------------------------------------------------------------------------------
+
+   No shows found matching your preferences.
+
+
+🎬 RECOMMENDED WEB SERIES:
+--------------------------------------------------------------------------------
+
+✨ Kipo and the Age of Wonderbeasts (2020)
+   ⭐ Rating: TV-Y7-FV | ⏱️  1 Season
+   🎭 Genres: Kids' TV, TV Comedies
+   📝 Making her way through a world of mutant animals, a sheltered yet scrappy girl learns how to survive – and get home – wi...
+
+✨ The Healing Powers of Dude (2020)
+   ⭐ Rating: TV-G | ⏱️  1 Season
+   🎭 Genres: Kids' TV, TV Comedies, TV Dramas
+   📝 When an 11-year-old boy with social anxiety disorder starts middle school, he finds strength in a scruffy emotional supp...
+
+================================================================================
+✅ Generated using 5 ML Models + Content-Based Filtering
+📊 Model Performance: RF=69.77%, LR R²=100.00%
+================================================================================
